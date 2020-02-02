@@ -98,6 +98,10 @@ class TicTacToe
   def play
     while !over?
       turn
+<<<<<<< HEAD
+=======
+      over?
+>>>>>>> 25ec56830c06f405512ee5e6911145d2e7caf3d1
     end
     
     if won?
